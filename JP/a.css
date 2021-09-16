@@ -1,0 +1,16 @@
+body{
+    background-color:crimson;
+    text-align: center;
+}
+form{
+    text-align: center;
+    margin: 15%;
+    
+}
+table{
+    text-align: center;
+}
+<th>
+{
+    padding: 10px;
+}
